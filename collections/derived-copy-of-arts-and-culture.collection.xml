@@ -1,0 +1,160 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Book">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11531</md:content-id>
+  <md:title>Derived copy of Arts and Culture </md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>813d74ca-3b1c-4cb2-83f1-f828b09b0d48</md:uuid>
+<md:slug>derived-copy-of-arts-and-culture</md:slug>
+</metadata>
+
+  <col:content>
+    
+      
+        
+      <col:subcollection>
+        <md:title>Term 1</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m23801"/>
+        
+      
+    
+    
+      <col:module document="m23815"/>
+        
+      
+    
+    
+      <col:module document="m23806"/>
+        
+      
+    
+    
+      <col:module document="m23812"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Term 2</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m23818"/>
+        
+      
+    
+    
+      <col:module document="m23820"/>
+        
+      
+    
+    
+      <col:module document="m23842"/>
+        
+      
+    
+    
+      <col:module document="m23833"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Term 3</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m23834"/>
+        
+      
+    
+    
+      <col:module document="m23835"/>
+        
+      
+    
+    
+      <col:module document="m23838"/>
+        
+      
+    
+    
+      <col:module document="m23839"/>
+        
+      
+    
+    
+      <col:module document="m23840"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Term 4</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m23845"/>
+        
+      
+    
+    
+      <col:module document="m23847"/>
+        
+      
+    
+    
+      <col:module document="m23851"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>
